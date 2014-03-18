@@ -1,3 +1,5 @@
+From the [Neurosynth Project](http://neurosynth.org/code)
+
 # Neurosynth Viewer
 NSViewer is a CoffeeScript/JS library for visualization of functional MRI data.
 
